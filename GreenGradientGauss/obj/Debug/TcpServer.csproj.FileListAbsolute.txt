@@ -1,0 +1,114 @@
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\HTCP-Project.exe.config
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\HTCP-Project.exe
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\HTCP-Project.pdb
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\NetJunk.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Buffers.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.IO.Pipelines.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Memory.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Numerics.Vectors.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Text.Encodings.Web.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Text.Json.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.ValueTuple.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\NetJunk.pdb
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\NetJunk.dll.config
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Buffers.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.IO.Pipelines.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Memory.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Numerics.Vectors.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Text.Encodings.Web.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Text.Json.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\bin\Debug\System.ValueTuple.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\TcpServer.csproj.AssemblyReference.cache
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\MainWindow.baml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\MainWindow.g.cs
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\App.g.cs
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\HTCP-Project_MarkupCompile.cache
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\HTCP-Project.g.resources
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\HTCP_Project.Properties.Resources.resources
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\TcpServer.csproj.GenerateResource.cache
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\TcpServer.csproj.Up2Date
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\HTCP-Project.exe
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\HTCP-Project\obj\Debug\HTCP-Project.pdb
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\HTCP-Project.exe.config
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\HTCP-Project.exe
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\HTCP-Project.pdb
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\NetJunk.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Buffers.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.IO.Pipelines.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Memory.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Numerics.Vectors.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Encodings.Web.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Json.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.ValueTuple.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\NetJunk.pdb
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\NetJunk.dll.config
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Buffers.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.IO.Pipelines.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Memory.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Numerics.Vectors.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Encodings.Web.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Json.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.ValueTuple.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.AssemblyReference.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\MainWindow.baml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\MainWindow.g.cs
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\App.g.cs
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project_MarkupCompile.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project.g.resources
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP_Project.Properties.Resources.resources
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.GenerateResource.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.Up2Date
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project.exe
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project.pdb
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\HTCP-Project.exe.config
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\HTCP-Project.exe
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\HTCP-Project.pdb
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\NetJunk.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Buffers.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.IO.Pipelines.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Memory.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Numerics.Vectors.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Encodings.Web.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Json.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.ValueTuple.dll
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\NetJunk.pdb
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\NetJunk.dll.config
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Buffers.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.IO.Pipelines.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Memory.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Numerics.Vectors.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Encodings.Web.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Text.Json.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\bin\Debug\System.ValueTuple.xml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.AssemblyReference.cache
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\MainWindow.baml
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\MainWindow.g.cs
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\App.g.cs
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project_MarkupCompile.cache
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project.g.resources
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP_Project.Properties.Resources.resources
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.GenerateResource.cache
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.CoreCompileInputs.cache
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\TcpServer.csproj.Up2Date
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project.exe
+D:\4 курс\GreenGradientGauss\GreenGradientGauss\obj\Debug\HTCP-Project.pdb

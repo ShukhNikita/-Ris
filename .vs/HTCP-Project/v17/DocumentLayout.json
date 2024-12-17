@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\htcp-project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|solutionrelative:htcp-project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\CliNet.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\clinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\CliNet.csproj|solutionrelative:clinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\htcp-project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|solutionrelative:htcp-project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BAD71FD-466F-449D-9087-93C19E89B2D7}|GradientGaussWhat\\GradientGaussWhat.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\gradientgausswhat\\modulegradtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BAD71FD-466F-449D-9087-93C19E89B2D7}|GradientGaussWhat\\GradientGaussWhat.csproj|solutionrelative:gradientgausswhat\\modulegradtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\htcp-project\\mathstuff\\gradientwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|solutionrelative:htcp-project\\mathstuff\\gradientwizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\htcp-project\\mathstuff\\wizardtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|solutionrelative:htcp-project\\mathstuff\\wizardtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\CliNet.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\clinet\\mathstuff\\gradientsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\CliNet.csproj|solutionrelative:clinet\\mathstuff\\gradientsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\htcp-project\\webstuff\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|HTCP-Project\\HTCP-Project.csproj|solutionrelative:htcp-project\\webstuff\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\CliNet.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\clinet\\webstuff\\httpclinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\CliNet.csproj|solutionrelative:clinet\\webstuff\\httpclinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 261,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModuleGradTests.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\GradientGaussWhat\\ModuleGradTests.cs",
+              "RelativeDocumentMoniker": "GradientGaussWhat\\ModuleGradTests.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\GradientGaussWhat\\ModuleGradTests.cs",
+              "RelativeToolTip": "GradientGaussWhat\\ModuleGradTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T22:06:44.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GradientWizard.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MathStuff\\GradientWizard.cs",
+              "RelativeDocumentMoniker": "HTCP-Project\\MathStuff\\GradientWizard.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MathStuff\\GradientWizard.cs",
+              "RelativeToolTip": "HTCP-Project\\MathStuff\\GradientWizard.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAOoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:07:15.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WizardTask.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MathStuff\\WizardTask.cs",
+              "RelativeDocumentMoniker": "HTCP-Project\\MathStuff\\WizardTask.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MathStuff\\WizardTask.cs",
+              "RelativeToolTip": "HTCP-Project\\MathStuff\\WizardTask.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:54:00.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\WebStuff\\HttpServer.cs",
+              "RelativeDocumentMoniker": "HTCP-Project\\WebStuff\\HttpServer.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\WebStuff\\HttpServer.cs",
+              "RelativeToolTip": "HTCP-Project\\WebStuff\\HttpServer.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAArwJoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:16:53.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GradientSolver.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\CliNet\\MathStuff\\GradientSolver.cs",
+              "RelativeDocumentMoniker": "CliNet\\MathStuff\\GradientSolver.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\CliNet\\MathStuff\\GradientSolver.cs",
+              "RelativeToolTip": "CliNet\\MathStuff\\GradientSolver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:57:06.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HttpCliNet.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\CliNet\\WebStuff\\HttpCliNet.cs",
+              "RelativeDocumentMoniker": "CliNet\\WebStuff\\HttpCliNet.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\CliNet\\WebStuff\\HttpCliNet.cs",
+              "RelativeToolTip": "CliNet\\WebStuff\\HttpCliNet.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:17:41.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\CliNet\\Program.cs",
+              "RelativeDocumentMoniker": "CliNet\\Program.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\CliNet\\Program.cs",
+              "RelativeToolTip": "CliNet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:13:57.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HTCP-Project\\MainWindow.xaml",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MainWindow.xaml*",
+              "RelativeToolTip": "HTCP-Project\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-28T07:12:30.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HTCP-Project\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GradientTCP\\HTCP-Project\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HTCP-Project\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:12:28.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

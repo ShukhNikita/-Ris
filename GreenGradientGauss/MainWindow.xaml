@@ -1,0 +1,227 @@
+﻿<Window x:Class="HTCP_Project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Калькулятор матриц" Height="750" Width="1200"
+        WindowStartupLocation="CenterScreen"
+        Background="#FFE8F4D9">
+
+    <Window.Resources>
+        <!-- Стиль для кнопок -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#FFC7E5A1"/>
+            <Setter Property="Foreground" Value="#FF2F4F2F"/>
+            <Setter Property="BorderBrush" Value="#FF98BA76"/>
+            <Setter Property="Padding" Value="15,8"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="1"
+                                CornerRadius="4">
+                            <ContentPresenter HorizontalAlignment="Center" 
+                                            VerticalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FFD8EBB8"/>
+                            </Trigger>
+                            <Trigger Property="IsPressed" Value="True">
+                                <Setter Property="Background" Value="#FFB5D88A"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для DataGrid -->
+        <Style TargetType="DataGrid">
+            <Setter Property="Background" Value="#FFFAFDF5"/>
+            <Setter Property="BorderBrush" Value="#FF98BA76"/>
+            <Setter Property="Foreground" Value="#FF2F4F2F"/>
+            <Setter Property="GridLinesVisibility" Value="All"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="RowBackground" Value="#FFFAFDF5"/>
+            <Setter Property="AlternatingRowBackground" Value="#FFF0F7E6"/>
+            <Setter Property="HorizontalGridLinesBrush" Value="#FFB5D88A"/>
+            <Setter Property="VerticalGridLinesBrush" Value="#FFB5D88A"/>
+        </Style>
+
+        <!-- Стиль для ячеек DataGrid -->
+        <Style TargetType="DataGridCell">
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderBrush" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="DataGridCell">
+                        <Border Background="{TemplateBinding Background}"
+                                BorderBrush="{TemplateBinding BorderBrush}"
+                                BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter VerticalAlignment="Center" 
+                                            HorizontalAlignment="Center"/>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsSelected" Value="True">
+                                <Setter Property="Background" Value="#FFC7E5A1"/>
+                                <Setter Property="Foreground" Value="#FF2F4F2F"/>
+                            </Trigger>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#FFE8F4D9"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Стиль для строк DataGrid -->
+        <Style TargetType="DataGridRow">
+            <Setter Property="Foreground" Value="#FF2F4F2F"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FFE8F4D9"/>
+                </Trigger>
+                <Trigger Property="IsSelected" Value="True">
+                    <Setter Property="Background" Value="#FFC7E5A1"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Верхняя панель с кнопками -->
+        <StackPanel Grid.Row="0" 
+                    Orientation="Horizontal" 
+                    Margin="0,0,0,10">
+            <Button Content="Сгенерировать матрицу" Height="30" Width="180" Click="GenerateMatrixButton_Click"/>
+            <Button Content="Загрузить матрицу" Height="30" Width="160" Click="OnLoadMatrixButton_Click"/>
+            <Button Content="Сохранить результаты" Height="30" Width="170" Click="OnSaveResultsButton_Click"/>
+            <Button Content="Классическое решение" Height="30" Width="170" Click="SolveClassicalButton_Click"/>
+            <Button Content="Распределенное решение" Height="30" Width="190" Click="SolveDistributedButton_Click"/>
+        </StackPanel>
+
+        <!-- Основная область -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="300"/>
+            </Grid.ColumnDefinitions>
+
+            <!-- Левая панель с матрицей -->
+            <Border Grid.Column="0" 
+                    Background="#FFD3E8AF" 
+                    CornerRadius="8" 
+                    Padding="15"
+                    Margin="0,0,10,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <WrapPanel>
+                        <TextBlock Text="Размер матрицы СЛАУ:"
+                                   Foreground="#FF2F4F2F" 
+                                   FontSize="20" 
+                                   FontWeight="SemiBold"
+                                   Margin="0,0,10,10"/>
+
+                        <TextBox Width="100" Text="50" FontSize="20" VerticalAlignment="Top" x:Name="slauSizeTextBox"
+                                   Margin="0,0,0,0" Foreground="#FF2F4F2F" FontWeight="SemiBold" Background="#FFDEEDC4" BorderBrush="#FF98BA76"/>
+                    </WrapPanel>
+
+                    <DataGrid Grid.Row="1" 
+                              x:Name="MatrixGrid"
+                              HeadersVisibility="None"
+                              CanUserAddRows="False"
+                              CanUserDeleteRows="False"
+                              AutoGenerateColumns="True" Background="#FFDEEDC4"/>
+                </Grid>
+            </Border>
+
+            <Border Grid.Column="1" 
+                    Background="#FFD3E8AF" 
+                    CornerRadius="8" 
+                    Padding="15"
+                    Margin="10,0,0,0">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" 
+                             Text="Результаты рассчётов" 
+                             Foreground="#FF2F4F2F" 
+                             FontSize="20" 
+                             FontWeight="SemiBold"
+                             Margin="0,0,0,10"/>
+
+                    <ListBox Grid.Row="1"
+                             x:Name="ResultsListBox"
+                             Background="#FFDEEDC4"
+                             BorderBrush="#FF98BA76"
+                             Foreground="#FF2F4F2F"
+                             ScrollViewer.VerticalScrollBarVisibility="Auto"
+                             Margin="0,0,0,10">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding}" Padding="5"/>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                    <StackPanel Grid.Row="2">
+                        <TextBlock Text="Сравнение скорости" 
+                                 Foreground="#FF2F4F2F" 
+                                 FontSize="20" 
+                                 FontWeight="SemiBold"
+                                 Margin="0,0,0,10"/>
+
+                        <Grid>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="Auto"/>
+                                <RowDefinition Height="Auto"/>
+                            </Grid.RowDefinitions>
+
+                            <TextBlock Text="Классическое: " 
+                                     Foreground="#FF4F6F4F"
+                                     Grid.Row="0"
+                                     Grid.Column="0"
+                                     Margin="0,0,10,5"/>
+                            <TextBlock x:Name="ClassicalTimeText" 
+                                     Text="0 мс"
+                                     Foreground="#FF2F6F2F"
+                                     Grid.Row="0"
+                                     Grid.Column="1"/>
+
+                            <TextBlock Text="Распределенное: " 
+                                     Foreground="#FF4F6F4F"
+                                     Grid.Row="1"
+                                     Grid.Column="0"
+                                     Margin="0,0,10,5"/>
+                            <TextBlock x:Name="DistributedTimeText" 
+                                     Text="0 мс"
+                                     Foreground="#FF2F6F2F"
+                                     Grid.Row="1"
+                                     Grid.Column="1"/>
+                        </Grid>
+                    </StackPanel>
+                </Grid>
+            </Border>
+        </Grid>
+    </Grid>
+</Window>

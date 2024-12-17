@@ -1,0 +1,56 @@
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\NetJunk.dll.config
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\NetJunk.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\NetJunk.pdb
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Buffers.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.IO.Pipelines.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Memory.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Numerics.Vectors.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Encodings.Web.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Json.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.ValueTuple.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Buffers.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.IO.Pipelines.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Memory.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Numerics.Vectors.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Encodings.Web.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Json.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\bin\Debug\System.ValueTuple.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\obj\Debug\DataPackets.csproj.AssemblyReference.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\obj\Debug\DataPackets.csproj.CoreCompileInputs.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\obj\Debug\DataPack.B6F01EBC.Up2Date
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\obj\Debug\NetJunk.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\NetJunk\obj\Debug\NetJunk.pdb
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\NetJunk.dll.config
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\NetJunk.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\NetJunk.pdb
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Buffers.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.IO.Pipelines.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Memory.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Numerics.Vectors.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Encodings.Web.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Json.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.ValueTuple.dll
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Buffers.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.IO.Pipelines.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Memory.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Numerics.Vectors.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Encodings.Web.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Text.Json.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4 курс\GreenGradientGauss\NetJunk\bin\Debug\System.ValueTuple.xml
+D:\4 курс\GreenGradientGauss\NetJunk\obj\Debug\DataPackets.csproj.AssemblyReference.cache
+D:\4 курс\GreenGradientGauss\NetJunk\obj\Debug\DataPackets.csproj.CoreCompileInputs.cache
+D:\4 курс\GreenGradientGauss\NetJunk\obj\Debug\DataPack.B6F01EBC.Up2Date
+D:\4 курс\GreenGradientGauss\NetJunk\obj\Debug\NetJunk.dll
+D:\4 курс\GreenGradientGauss\NetJunk\obj\Debug\NetJunk.pdb

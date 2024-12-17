@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\greengradientgauss\\transfer\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\transfer\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\clinet\\network\\tisipiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|solutionrelative:clinet\\network\\tisipiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|e:\\labrabs\\multythreading\\coures_26\\greengradientgauss\\greengradientgauss\\parallelalgebra\\masterzadanij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\parallelalgebra\\masterzadanij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\ultradeluxetesting\\loadplatinumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|solutionrelative:ultradeluxetesting\\loadplatinumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\greengradientgauss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\ultradeluxetesting\\modulegoldentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|solutionrelative:ultradeluxetesting\\modulegoldentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\clinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|solutionrelative:clinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadPlatinumTests.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "RelativeDocumentMoniker": "UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "RelativeToolTip": "UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:30:10.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModuleGoldenTests.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "RelativeDocumentMoniker": "UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "RelativeToolTip": "UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:27:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MasterZadanij.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "RelativeToolTip": "GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:18:14.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TisipiClient.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\CliNet\\Network\\TisipiClient.cs",
+              "RelativeDocumentMoniker": "CliNet\\Network\\TisipiClient.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\CliNet\\Network\\TisipiClient.cs",
+              "RelativeToolTip": "CliNet\\Network\\TisipiClient.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:40:02.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\CliNet\\Program.cs",
+              "RelativeDocumentMoniker": "CliNet\\Program.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\CliNet\\Program.cs",
+              "RelativeToolTip": "CliNet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:39:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "RelativeToolTip": "GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:08:53.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\GreenGradientGauss\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\LabRabs\\MultyThreading\\coures_26\\GreenGradientGauss\\GreenGradientGauss\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GreenGradientGauss\\MainWindow.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAI4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:10:43.001Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

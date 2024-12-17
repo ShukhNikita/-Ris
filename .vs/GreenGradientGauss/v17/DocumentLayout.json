@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\netjunk\\converters\\doublearrayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|solutionrelative:netjunk\\converters\\doublearrayconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\ultradeluxetesting\\loadplatinumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|solutionrelative:ultradeluxetesting\\loadplatinumtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|d:\\4 \u043A\u0443\u0440\u0441\\greengradientgauss\\greengradientgauss\\files\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\files\\numbers.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\ultradeluxetesting\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|solutionrelative:ultradeluxetesting\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\ultradeluxetesting\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|solutionrelative:ultradeluxetesting\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\ultradeluxetesting\\modulegoldentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4F301D-6F73-475C-8E5F-E86AA51DA514}|UltraDeluxeTesting\\UltraDeluxeTesting.csproj|solutionrelative:ultradeluxetesting\\modulegoldentests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\transfer\\useless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\transfer\\useless.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\transfer\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\transfer\\tcpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\parallelalgebra\\zadanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\parallelalgebra\\zadanie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\parallelalgebra\\masterzadanij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\parallelalgebra\\masterzadanij.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\clinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|solutionrelative:clinet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\clinet\\network\\tisipiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|solutionrelative:clinet\\network\\tisipiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\clinet\\linearalgebra\\gradientsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9BF6330-1E30-44BB-8982-0E1F084D5909}|CliNet\\TcpClient.csproj|solutionrelative:clinet\\linearalgebra\\gradientsolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\netjunk\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|solutionrelative:netjunk\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\netjunk\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|solutionrelative:netjunk\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\netjunk\\data\\convolute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBD30DC-02ED-40E8-8C40-187ED2F8B1A3}|NetJunk\\DataPackets.csproj|solutionrelative:netjunk\\data\\convolute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\greengradientgauss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D46D13BE-4C81-4E20-B453-0C2D49E3D170}|GreenGradientGauss\\TcpServer.csproj|solutionrelative:greengradientgauss\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\App.config",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\App.config",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\App.config",
+              "RelativeToolTip": "GreenGradientGauss\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T18:51:00.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\App.xaml",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\App.xaml",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\App.xaml",
+              "RelativeToolTip": "GreenGradientGauss\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:50:58.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\MainWindow.xaml",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\MainWindow.xaml",
+              "RelativeToolTip": "GreenGradientGauss\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:50:54.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "UltraDeluxeTesting\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "UltraDeluxeTesting\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:50:09.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\packages.config",
+              "RelativeDocumentMoniker": "UltraDeluxeTesting\\packages.config",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\packages.config",
+              "RelativeToolTip": "UltraDeluxeTesting\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T18:49:18.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Useless.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\Transfer\\Useless.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\Transfer\\Useless.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\Transfer\\Useless.cs",
+              "RelativeToolTip": "GreenGradientGauss\\Transfer\\Useless.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAUwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:07:07.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Zadanie.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\ParallelAlgebra\\Zadanie.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\ParallelAlgebra\\Zadanie.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\ParallelAlgebra\\Zadanie.cs",
+              "RelativeToolTip": "GreenGradientGauss\\ParallelAlgebra\\Zadanie.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAmwH8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:00:08.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GradientSolver.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\CliNet\\LinearAlgebra\\GradientSolver.cs",
+              "RelativeDocumentMoniker": "CliNet\\LinearAlgebra\\GradientSolver.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\CliNet\\LinearAlgebra\\GradientSolver.cs",
+              "RelativeToolTip": "CliNet\\LinearAlgebra\\GradientSolver.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:54:46.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "app.config",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\app.config",
+              "RelativeDocumentMoniker": "NetJunk\\app.config",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\app.config",
+              "RelativeToolTip": "NetJunk\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T17:54:22.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\packages.config",
+              "RelativeDocumentMoniker": "NetJunk\\packages.config",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\packages.config",
+              "RelativeToolTip": "NetJunk\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-11T17:54:21.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Convolute.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\Data\\Convolute.cs",
+              "RelativeDocumentMoniker": "NetJunk\\Data\\Convolute.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\Data\\Convolute.cs",
+              "RelativeToolTip": "NetJunk\\Data\\Convolute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:53:43.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoubleArrayConverter.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\Converters\\DoubleArrayConverter.cs",
+              "RelativeDocumentMoniker": "NetJunk\\Converters\\DoubleArrayConverter.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\NetJunk\\Converters\\DoubleArrayConverter.cs",
+              "RelativeToolTip": "NetJunk\\Converters\\DoubleArrayConverter.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAUwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:06:44.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "numbers.txt",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\Files\\numbers.txt",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\Files\\numbers.txt",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\Files\\numbers.txt",
+              "RelativeToolTip": "GreenGradientGauss\\Files\\numbers.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAMAwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T07:13:25.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoadPlatinumTests.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "RelativeDocumentMoniker": "UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "RelativeToolTip": "UltraDeluxeTesting\\LoadPlatinumTests.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAUwKoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:30:10.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModuleGoldenTests.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "RelativeDocumentMoniker": "UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "RelativeToolTip": "UltraDeluxeTesting\\ModuleGoldenTests.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAcwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:27:13.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MasterZadanij.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "RelativeToolTip": "GreenGradientGauss\\ParallelAlgebra\\MasterZadanij.cs",
+              "ViewState": "AQIAABoBAAAAAAAAAAAgwC4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T14:18:14.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TisipiClient.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\CliNet\\Network\\TisipiClient.cs",
+              "RelativeDocumentMoniker": "CliNet\\Network\\TisipiClient.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\CliNet\\Network\\TisipiClient.cs",
+              "RelativeToolTip": "CliNet\\Network\\TisipiClient.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAYwIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:40:02.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\CliNet\\Program.cs",
+              "RelativeDocumentMoniker": "CliNet\\Program.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\CliNet\\Program.cs",
+              "RelativeToolTip": "CliNet\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:39:51.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TcpServer.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "RelativeToolTip": "GreenGradientGauss\\Transfer\\TcpServer.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAAiwMYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:08:53.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GreenGradientGauss\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\4 \u043A\u0443\u0440\u0441\\GreenGradientGauss\\GreenGradientGauss\\MainWindow.xaml.cs",
+              "RelativeToolTip": "GreenGradientGauss\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAawBUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T09:10:43.001Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1042,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

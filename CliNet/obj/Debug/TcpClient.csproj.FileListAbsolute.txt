@@ -1,0 +1,93 @@
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\CliNet.exe.config
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\CliNet.exe
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\CliNet.pdb
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\NetJunk.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Buffers.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.IO.Pipelines.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Memory.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Numerics.Vectors.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Text.Encodings.Web.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Text.Json.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.ValueTuple.dll
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\NetJunk.pdb
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\NetJunk.dll.config
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Buffers.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.IO.Pipelines.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Memory.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Numerics.Vectors.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Text.Encodings.Web.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Text.Json.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\bin\Debug\System.ValueTuple.xml
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\obj\Debug\TcpClient.csproj.Up2Date
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\obj\Debug\CliNet.exe
+E:\LabRabs\MultyThreading\coures_26\GradientTCP\CliNet\obj\Debug\CliNet.pdb
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\CliNet.exe.config
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\CliNet.exe
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\CliNet.pdb
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\NetJunk.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Buffers.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.IO.Pipelines.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Memory.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Numerics.Vectors.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Text.Encodings.Web.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Text.Json.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.ValueTuple.dll
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\NetJunk.pdb
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\NetJunk.dll.config
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Buffers.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.IO.Pipelines.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Memory.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Numerics.Vectors.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Text.Encodings.Web.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Text.Json.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\bin\Debug\System.ValueTuple.xml
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\obj\Debug\TcpClient.csproj.Up2Date
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\obj\Debug\CliNet.exe
+E:\LabRabs\MultyThreading\coures_26\GreenGradientGauss\CliNet\obj\Debug\CliNet.pdb
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\CliNet.exe.config
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\CliNet.exe
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\CliNet.pdb
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\NetJunk.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Buffers.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.IO.Pipelines.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Memory.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Numerics.Vectors.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Text.Encodings.Web.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Text.Json.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.ValueTuple.dll
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\NetJunk.pdb
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\NetJunk.dll.config
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Buffers.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.IO.Pipelines.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Memory.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Numerics.Vectors.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Text.Encodings.Web.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Text.Json.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\4 курс\GreenGradientGauss\CliNet\bin\Debug\System.ValueTuple.xml
+D:\4 курс\GreenGradientGauss\CliNet\obj\Debug\TcpClient.csproj.AssemblyReference.cache
+D:\4 курс\GreenGradientGauss\CliNet\obj\Debug\TcpClient.csproj.CoreCompileInputs.cache
+D:\4 курс\GreenGradientGauss\CliNet\obj\Debug\TcpClient.csproj.Up2Date
+D:\4 курс\GreenGradientGauss\CliNet\obj\Debug\CliNet.exe
+D:\4 курс\GreenGradientGauss\CliNet\obj\Debug\CliNet.pdb
